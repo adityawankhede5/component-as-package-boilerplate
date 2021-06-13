@@ -2,7 +2,7 @@
 A bolierplate code to get started with writing reusable react components that can be published to as npm modules.
 
 ```
-git clone 
+git clone https://github.com/adityawankhede5/component-as-package-boilerplate.git
 ```
 
 After it is cloned install the required dependencies with `npm i`
